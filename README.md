@@ -6,7 +6,7 @@ This project implements an automatic light detection system using an Arduino Uno
 
 ## 🛠 Components Used
 
-- Arduino Uno
+- Arduino Uno R3
 - LDR (Photoresistor)
 - LED
 - 10 kΩ Resistor
@@ -45,3 +45,9 @@ The LDR and resistor form a voltage divider whose output is connected to analog 
 ## 🔗 Tinkercad Simulation
 
 https://www.tinkercad.com/things/k89WH52Xzgo-photoresistor/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=toGXnG-xjceGq7Vcme6C-lTFuWqgNcwRV3aSjGHzDoU&sharecode=toGXnG-xjceGq7Vcme6C-lTFuWqgNcwRV3aSjGHzDoU
+
+## 🤖 Working Demonstration
+
+
+https://github.com/user-attachments/assets/bfda6058-de55-4c0f-b435-f3e8935634ac
+
